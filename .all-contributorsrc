@@ -1,0 +1,143 @@
+{
+  "projectName": "Deep-Forest",
+  "projectOwner": "LAMDA-NJU",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "skipCi": true
+  "contributors": [
+    {
+      "login": "xuyxu",
+      "name": "Yi-Xuan Xu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22359569?v=4",
+      "profile": "https://github.com/xuyxu",
+      "contributions": [
+        "code",
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "tczhao",
+      "name": "tczhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20961507?v=4",
+      "profile": "https://www.linkedin.com/in/tczhao/",
+      "contributions": [
+        "code",
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "NiMaZi",
+      "name": "NiMaZi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19431549?v=4",
+      "profile": "https://github.com/NiMaZi",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "pjgao",
+      "name": "Joey Gao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22350313?v=4",
+      "profile": "https://github.com/pjgao",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dwaipayan05",
+      "name": "Dwaipayan Munshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53687927?v=4",
+      "profile": "https://github.com/dwaipayan05",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Mr-memorandum",
+      "name": "Mr-memorandum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33889145?v=4",
+      "profile": "https://github.com/Mr-memorandum",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "T-Allen-sudo",
+      "name": "T-Allen-sudo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65913092?v=4",
+      "profile": "https://github.com/T-Allen-sudo",
+      "contributions": [
+        "maintenance",
+        "test"
+      ]
+    },
+    {
+      "login": "zhenlingcn",
+      "name": "zhenlingcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18747119?v=4",
+      "profile": "https://github.com/zhenlingcn",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Alex-Medium",
+      "name": "Alex-Medium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78067955?v=4",
+      "profile": "http://alex-medium.github.io",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "chendingyan",
+      "name": "陈鼎彦",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16874978?v=4",
+      "profile": "https://github.com/chendingyan",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "zzzzwj",
+      "name": "Wenjie Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23235538?v=4",
+      "profile": "https://github.com/zzzzwj",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "zshgostop",
+      "name": "zshgostop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48615178?v=4",
+      "profile": "https://github.com/zshgostop",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "IncubatorShokuhou",
+      "name": "Hao Lyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20434183?v=4",
+      "profile": "https://github.com/IncubatorShokuhou",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+}
